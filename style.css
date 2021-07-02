@@ -3,7 +3,15 @@
     margin: auto;
     margin-top: 25px;
 }
-
 .whoscroll{
     height:585px;
+}
+.brown {
+background-color: #923530;
+}
+.gray {
+background-color: #DED7D1;    
+}
+ul.none {
+  list-style-type: none;
 }
