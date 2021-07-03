@@ -6,7 +6,7 @@
 - **Who We Are:** Leo    
 - **Where We Work:** Chris    
 - **Contact Us:** Leo    
-- **Skeleton:** Leo    
+- **Skeleton Framework for all pages:** Leo    
 - **CSS for all pages:** Vicky    
 - **Readme:** Vicky
 
