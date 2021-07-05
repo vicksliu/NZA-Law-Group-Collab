@@ -1,17 +1,136 @@
-.NZA{
+body {
+  background-image: url("images/nza_background.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #cccccc;
+ }
+
+.nza{
     display: block;
     margin: auto;
-    margin-top: 25px;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
+
+.nza-body{
+  padding:75px;
+}
+
+#logo{
+  margin-left: 20px;
+}
+
+.login-btn{
+  background-color: #ccc;
+  border-radius: 0 0 5px 5px;
+  width: 60px;
+  text-align:center;
+  padding: 5px;
+}
+
+.login-btn a{
+  color: #fff;
+  text-decoration: none;
+}
+
+#nzanavbar{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-top: 2px solid;
+  border-bottom: 2px solid;
+}
+
+.navbar-spacing {
+  width: 100%; 
+  display: flex;
+  flex-wrap: no-wrap;
+  justify-content: space-between;
+}
+
+#footer{
+  margin-top:40px;
+}
+
+.footer-spacing{
+margin-left: auto;
+margin-right: auto;
+}
+
+.navbar-nav > li {
+  flex-grow: 1;
+  text-align: center;
+}
+
+.navbar-nav > li > a {
+font-size: 18px;
+color: #000;
+}
+
+#nzafooter{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-top: 2px solid;
+}
+
+.separator{
+  opacity: 0.5;
+}
+
 .whoscroll{
-    height:585px;
+    height:660px;
 }
-.brown {
-background-color: #923530;
+
+.brown{
+  padding-left: 25px;
+  padding-right: 25px;
+  color: #fff;
+  background: rgb(146,53,48);
+  background: linear-gradient(180deg, rgba(146,53,48,1) 0%, rgba(107,42,40,1) 100%);
 }
-.gray {
-background-color: #DED7D1;    
+
+.grey {
+  padding-left: 25px;
+  padding-right: 25px;
+  background: rgb(222,215,209);
+  background: linear-gradient(180deg, rgba(222,215,209,1) 0%, rgba(215,206,197,1) 100%); 
 }
+
+.maroon{
+  color: #923530;
+}
+
+.pagespacer{
+  padding: 30px;
+}
+
+.sidebarspacer{
+  padding-top: 20px;
+  margin-bottom: 10px;
+}
+
+.contentspacer{
+  padding-top: 30px;
+}
+
+.footerspacer{
+  padding-bottom: 50px;
+}
+
+.img-spacing{
+  margin-bottom:10px;
+}
+
 ul.none {
   list-style-type: none;
 }
+
+@media screen and (max-width: 992px) {
+  .hide-menu-item{
+    display: none;
+  }
+}
+hide-menu-item
