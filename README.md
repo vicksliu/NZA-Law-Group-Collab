@@ -16,3 +16,15 @@
 - [Who We Are](https://leoashcraft.github.io/NZA-Law-Group-Collab/who-we-are.html)
 - [Where We Work](https://leoashcraft.github.io/NZA-Law-Group-Collab/where-we-work.html)
 - [Contact Us](https://leoashcraft.github.io/NZA-Law-Group-Collab/contact-us.html)
+
+### Completed?
+
+- **Repository:** Yes    
+- **Header and Nav and Footer:** Yes    
+- **What We Do:** Yes    
+- **Who We Are:** Yes    
+- **Where We Work:** Yes    
+- **Contact Us:** Yes    
+- **Skeleton Framework for all pages:** Yes    
+- **CSS for all pages:** In Progress
+- **Readme:** In Progress
