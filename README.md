@@ -7,8 +7,8 @@
 - **Where We Work:** Chris    
 - **Contact Us:** Leo    
 - **Skeleton Framework for all pages:** Leo    
-- **CSS for all pages:** Vicky    
-- **Readme:** Vicky
+- **CSS for all pages:** Vicky and Leo    
+- - **Readme:** Vicky
 
 ## Github Pages
 
