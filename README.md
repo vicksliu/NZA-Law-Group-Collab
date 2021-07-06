@@ -8,7 +8,7 @@
 - **Contact Us:** Leo    
 - **Skeleton Framework for all pages:** Leo    
 - **CSS for all pages:** Vicky and Leo    
-- - **Readme:** Vicky
+- **Readme:** Leo
 
 ## Github Pages
 
@@ -26,5 +26,5 @@
 - **Where We Work:** Yes    
 - **Contact Us:** Yes    
 - **Skeleton Framework for all pages:** Yes    
-- **CSS for all pages:** In Progress
+- **CSS for all pages:** Yes
 - **Readme:** In Progress
