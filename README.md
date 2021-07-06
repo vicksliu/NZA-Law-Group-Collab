@@ -1,4 +1,7 @@
-# NZA Law Group Collaboration Assignments
+# NZA Law Group Collaboration Project Overview
+We collaborated on creating this website based on a mock-up as part of a coding bootcamp class assignment. We built this website using HTML, CSS, and Bootstrap. 
+
+## NZA Law Group Collaboration Assignments
 
 - **Repository:** Leo    
 - **Header and Nav and Footer:** Chris    
@@ -27,4 +30,4 @@
 - **Contact Us:** Yes    
 - **Skeleton Framework for all pages:** Yes    
 - **CSS for all pages:** Yes
-- **Readme:** In Progress
+- **Readme:** Yes
